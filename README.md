@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: music, animation, basketball
 
 
-[RaleLee's github stats](https://github-readme-stats.vercel.app/api?username=RaleLee&count_private=true&theme=radical)
+![RaleLee's github stats](https://github-readme-stats.vercel.app/api?username=RaleLee&count_private=true&theme=vue-dark)
