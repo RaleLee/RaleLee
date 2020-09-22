@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a senior student at Harbin Institute of Technology. And will join HIT-SCIR for a master degree next year.
 - 🌱 My main research area is task-oriented dialogue system and Spoken Language Understanding.
-- 📫 How to reach me: [Email](zhouyangli@ir.hit.edu.cn)
+- 📫 How to reach me: [Email](mailto:zhouyangli@ir.hit.edu.cn)
 - ⚡ Hobbies: music, animation, basketball
 
 
