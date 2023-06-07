@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently a master student at [HIT-SCIR](https://ir.hit.edu.cn), Harbin Institute of Technology.
+- 🔭 I have graduated and obtained a master's degree from [HIT-SCIR](https://ir.hit.edu.cn), Harbin Institute of Technology.
 - 🌱 My main research interests are NLP and Task-oriented Dialogue System.
 - 📫 How to reach me: [Email](mailto:zhouyangli@ir.hit.edu.cn)
-- ⚡ Hobbies: music, animation, basketball
+- ⚡ Hobbies: music, basketball
 
 
 ![RaleLee's github stats](https://github-readme-stats.vercel.app/api?username=RaleLee&count_private=true&theme=vue-dark)
